@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Tran Thanh Huy / Harry Tran 👋
 
 I'm a third-year Computer Science student at Ton Duc Thang University, Vietnam, aspiring to become a **Fullstack Web Developer**.
 
