@@ -1,4 +1,4 @@
-# Hi, I'm Tran Thanh Huy 👋
+# Hi, I'm Tran Thanh Huy / Harry Tran 👋
 
 I'm a third-year Computer Science student at Ton Duc Thang University, Vietnam, focused on **AI-powered automation**.
 
