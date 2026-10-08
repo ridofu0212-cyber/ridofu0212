@@ -1,15 +1,15 @@
 # Hi, I'm Tran Thanh Huy / Harry Tran 👋
 
-I'm a third-year Computer Science student at Ton Duc Thang University, Vietnam, focused on **AI-powered automation**.
+I'm a third-year Computer Science student at Ton Duc Thang University, Vietnam, focused on **AI-focused Business Analyst**.
 
-I build workflows and tools that use LLMs and APIs to remove repetitive work, and I'm aiming for an internship as an **Automation / AI Application** intern in 6 months.
+I analyze business processes, write clear requirements, and use automation and LLM tools to turn messy workflows into efficient ones.
 
 ## 🔭 What I'm working on
-- Automating real-world tasks with n8n/Make and Python
-- Building small AI agents and chatbots using LLM APIs
+- Learning business analysis: user stories, process modeling, requirement documents
+- Building small automation workflows with n8n and LLM APIs
 
 ## 🌱 Currently learning
-Python · REST APIs · n8n · Prompt Engineering · SQL
+Business Analysis · Agile/Scrum · SQL · n8n · Prompt Engineering
 
 ## 📫 Contact
 - Email: ridofu0212@gmail.com  
